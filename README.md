@@ -1,6 +1,4 @@
-## Johannes Haapanen
-
-### <spans style="color: grey" >spoilaro<span>
+# <spans style="color: grey" >spoilaro<span>
 
 ---
 

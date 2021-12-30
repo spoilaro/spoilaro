@@ -10,16 +10,17 @@ Computer science student from Finland. Always ready to learn new things. For 202
 
 ### Languages:
 
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
-<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/typescript.svg" />
-<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/python.svg" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/c.svg" />
-<img align="left" height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/rust.svg" />
+<img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="c" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="rust" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
 
 <br />
 
 ### Tools:
 
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/neovim/.png" />
 <img height="32" align="left" width="32" src="https://unpkg.com/simple-icons@v6/icons/neovim.svg" />
 <img height="32" align="left" width="32" src="https://unpkg.com/simple-icons@v6/icons/visualstudiocode.svg" />
 <img height="32" align="left" width="32" src="https://unpkg.com/simple-icons@v6/icons/express.svg" />

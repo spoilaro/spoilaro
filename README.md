@@ -16,7 +16,7 @@ Computer science student from Finland. Always ready to learn new things. For 202
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/c.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/rust.svg" />
 
-</br>
+<br />
 
 ### Tools:
 

@@ -1,16 +1,34 @@
-### Hi there 👋
+## Johannes Haapanen
 
-<!--
-**spoilaro/spoilaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <spans style="color: grey" >spoilaro<span>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+Computer science student from Finland. Always ready to learn new things. For 2022 looking to contribute more to open source projects.
+
+### Languages:
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/typescript.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/python.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/c.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/rust.svg" />
+
+</br>
+
+### Tools:
+
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/neovim.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/visualstudiocode.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/express.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/react.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/alacritty.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/mysql.svg" />
+
+</br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spoilaro&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[linkedin]: https://www.linkedin.com/in/haapanenjohannes/""

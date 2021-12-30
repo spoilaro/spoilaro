@@ -20,11 +20,11 @@ Computer science student from Finland. Always ready to learn new things. For 202
 
 ### Tools:
 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/neovim.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/visualstudiocode.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/express.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/react.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/alacritty.svg" />
+<img height="32" align="left" width="32" src="https://unpkg.com/simple-icons@v6/icons/neovim.svg" />
+<img height="32" align="left" width="32" src="https://unpkg.com/simple-icons@v6/icons/visualstudiocode.svg" />
+<img height="32" align="left" width="32" src="https://unpkg.com/simple-icons@v6/icons/express.svg" />
+<img height="32" align="left" width="32" src="https://unpkg.com/simple-icons@v6/icons/react.svg" />
+<img height="32" align="left" width="32" src="https://unpkg.com/simple-icons@v6/icons/alacritty.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/mysql.svg" />
 
 </br>

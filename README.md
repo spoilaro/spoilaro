@@ -4,7 +4,7 @@
 
 ## About
 
-Computer science student from Finland. Always ready to learn new things. For 2022 looking to contribute more to open source projects.
+Software developer/computer science student from Finland. Always ready to learn new things. For 2022 looking to contribute more to open source projects.
 
 ### Languages:
 

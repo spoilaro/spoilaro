@@ -8,17 +8,17 @@ Computer science student from Finland. Always ready to learn new things. For 202
 
 ### Languages:
 
-<img align="left" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/typescript.png"/>
-<img align="left"src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img align="left" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img align="left"src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+<img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324">
 <br />
 
 ### Tools:
 
-<img align="left" height="50px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img align="left" height="50px" src="https://img.icons8.com/office/100/000000/react.png"/>
-<img height="50px" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img align="left" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </br>
 

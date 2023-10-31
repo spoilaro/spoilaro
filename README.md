@@ -17,7 +17,7 @@ Software developer/computer science student from Finland. Always ready to learn 
 ### Tools:
 
 <img align="left" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
-<img align="left" src="https://img.shields.io/badge/PostgreSQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/PostgreSQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 </br>
